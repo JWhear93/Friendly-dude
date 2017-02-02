@@ -1,0 +1,1 @@
+Basic CSS animated stick figure, just made for a little practice :].
